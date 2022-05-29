@@ -1,0 +1,91 @@
+
+/*
+.results img:hover{
+    transform: scale(1.05);
+}
+
+#modal-view{
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modal-view img{
+    max-height: 100%;
+    max-width: 100%;
+
+}
+#modal-view.hidden{
+    display: none;
+}
+
+.no_scroll{
+    overflow: hidden;
+}
+
+button{
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+.select_radio{
+    margin-bottom: 8px;
+    
+}
+.opacity{
+    opacity: 0.6;
+}
+
+div.selected_radio{
+    background-color: #b6d2fa;
+
+}
+
+
+.caricamento_post{
+    background-color: rgba(0,0,0,0.9);
+    z-index: 5;
+}
+
+.caricamento_post div{
+    margin: auto;
+    height: 40%;
+    background-color: white;
+}
+
+.fixed{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:fixed;
+    top: 25%;
+    bottom: 25%;
+    left: 30%;
+    right: 30%;
+    
+}
+
+.fixed a{
+    color: black;
+    margin-left: 10px;
+    padding: 5px 15px;
+}
+
+.fixed a:hover{
+    cursor: pointer;
+    background-color: rgb(218, 216, 216);
+    border-radius: 15px;
+}*/
